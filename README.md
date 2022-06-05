@@ -1,8 +1,8 @@
 # Deploying static website in EC2 using Jenkins 
 
 *   Technologies used:
-  *    Git
-  *    Github
+   *   Git
+   *   Github
    *   AWS EC2
    *   Jenkins
 
